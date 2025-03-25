@@ -1,6 +1,5 @@
 .editor-group-watermark > .letterpress {
     background-image: url("https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/VSCode/VSCode-Thick.png") !important;
     opacity: 1;
-    transform: scale(1.3) 
-  }
+    transform: scale(1.75) 
   }
